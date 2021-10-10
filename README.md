@@ -1,5 +1,6 @@
 ### 👋 Hi, I’m @pdadhikary (Deepta)
-- 👀 I’m interested in full stack web development, algorithm design and I love reading epic fantasy novels (especially ones by GRRM & Brandon Sanderson)
+- 💼 I'm Data Engineer Co-op Student at Sanofi Pasteur
+- 👀 I’m interested in data science, python/js web development, algorithm design and I love reading epic fantasy novels (especially [Brandon Sanderson](https://www.brandonsanderson.com/))
 - 🌱 I’m currently learning Django framework
 - 📫 How to reach me: pdad12@my.yorku.ca
 
