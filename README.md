@@ -1,7 +1,7 @@
 ### 👋 Hi, I’m @pdadhikary (Deepta)
 - 💼 I'm Data Engineer Co-op Student at Sanofi Pasteur
-- 👀 I’m interested in data science, python/js web development, algorithm design and I love reading epic fantasy novels (especially [Brandon Sanderson](https://www.brandonsanderson.com/))
-- 🌱 I’m currently learning Django framework
+- 👀 I’m interested in data science, python/js web development, algorithm design. I love reading fantasy novels (especially [Brandon Sanderson](https://www.brandonsanderson.com/))
+- 🌱 I’m currently currently on my first co-op program taking a deep dive into the world of vaccine production.
 - 📫 How to reach me: pdad12@my.yorku.ca
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pdad12@my.yorku.ca)
