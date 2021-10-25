@@ -1,3 +1,9 @@
+J.R.R. Tolkien:
+> All that is gold does not glitter,
+>
+> Not all those who wander are lost;
+
+
 ### 👋 Hi, I’m @pdadhikary (Deepta)
 - 💼 I'm Data Engineer Co-op Student at Sanofi Pasteur
 - 👀 I’m interested in data science, python/js web development, algorithm design. I love reading fantasy novels (especially [Brandon Sanderson](https://www.brandonsanderson.com/))
