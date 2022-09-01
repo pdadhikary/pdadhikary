@@ -8,7 +8,7 @@ J.R.R. Tolkien:
 - 💼 I'm a Data Engineer Co-op Student at Sanofi Pasteur
 - 👀 I’m interested in data science, python/js web development, algorithm design. I love reading epic fantasy (especially [Brandon Sanderson](https://www.brandonsanderson.com/))
 - 🌱 I’m currently currently on my first co-op program taking a deep dive into the world of vaccine production.
-- 📫 How to reach me: pdad12@my.yorku.ca
+- 📫 How to reach me: deeptoadhikary@gmail.com
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pdad12@my.yorku.ca)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pdeepta-adhikary/)
