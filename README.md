@@ -6,7 +6,7 @@ J.R.R. Tolkien:
 
 ### 👋 Hi, I’m @pdadhikary (Deepta)
 - 💼 I'm a former MTECH Data Engineering Co-op Student at Sanofi Pasteur
-- 👀 I’m interests lie in prescriptive data analytics and algorithm design. I love reading epic fantasy (especially Brandon Sanderson).
+- 👀 My interests lie in prescriptive data analytics and algorithm design. I love reading epic fantasy (especially Brandon Sanderson).
 - 🌱 Currently on my final year of Computer Science undergrad degree.
 - 📫 How to reach me: deeptoadhikary@gmail.com
 
