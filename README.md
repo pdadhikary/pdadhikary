@@ -5,17 +5,17 @@ J.R.R. Tolkien:
 
 
 ### 👋 Hi, I’m @pdadhikary (Deepta)
-- 💼 I'm a Data Engineer Co-op Student at Sanofi Pasteur
-- 👀 I’m interested in data science, python/js web development, algorithm design. I love reading epic fantasy (especially [Brandon Sanderson](https://www.brandonsanderson.com/))
-- 🌱 I’m currently currently on my first co-op program taking a deep dive into the world of vaccine production.
+- 💼 I'm a former MTECH Data Engineering Co-op Student at Sanofi Pasteur
+- 👀 I’m interests lie in prescriptive data analytics and algorithm design. I love reading epic fantasy (especially Brandon Sanderson).
+- 🌱 Currently on my final year of Computer Science undergrad degree.
 - 📫 How to reach me: deeptoadhikary@gmail.com
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pdad12@my.yorku.ca)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deeptoadhikary@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pdeepta-adhikary/)
 
 ## 💻Technologies⚡
 
-These are some of the technologies and tools that I work with:
+Some of the tools I have worked with:
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
