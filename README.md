@@ -13,6 +13,11 @@ I build scalable data systems, backend services, and tools that turn messy data 
 * Focused on shape representation, data augmentation, and model evaluation
 * Worked independently on research problems and experimental pipelines
 
+**🤓 C-Programming & Mathematics Tutor - TutorBright (2022-2023)**
+
+* Tutored 3 HS students in the C programming language
+* Tutored 2 HS students in IB Mathematics (Grades increased from mid 70s to high 80s)
+
 **🏢 Data Engineering Co-op — Sanofi (2021–2022)**
 
 * Improved pipeline observability with structured logging, retries, and alerting (↓ debugging time by ~50%)
