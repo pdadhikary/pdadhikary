@@ -29,6 +29,9 @@ I build scalable data systems, backend services, and tools that turn messy data 
 
 ## 🚀 Featured Projects
 
+### 🖥️ [Kobs-Plotter](https://github.com/pdadhikary/kobs_plotter)
+A desktop application for scientific curve fitting and publication-ready visualization
+
 ### 📊 [Bangladesh Inflation Monitor](https://github.com/pdadhikary/bd-inflation-monitor)
 Bangladesh's economic status at a glance.
 
