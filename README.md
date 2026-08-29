@@ -23,7 +23,7 @@ Supporting AWS cloud migrations and building AI integration pipelines.
 Developed generative models for synthetic datasets of animal contours, focused on shape representation, data augmentation, and model evaluation.
 
 **Data Engineering Co-op** — Sanofi  `2021 – 2022`
-Build robust vaccine batch genealogy monitoring pipeline. Improved pipeline observability with structured logging, retries, and alerting, cutting debugging time by roughly 50%. Audited and fixed critical PySpark aggregation issues to restore dashboard accuracy, and replaced manual Excel workflows with AWS Athena queries and Power BI dashboards.
+Built robust vaccine batch genealogy monitoring pipeline. Improved pipeline observability with structured logging, retries, and alerting, cutting debugging time by roughly 50%. Audited and fixed critical PySpark aggregation issues to restore dashboard accuracy, and replaced manual Excel workflows with AWS Athena queries and Power BI dashboards.
 
 <br>
 
