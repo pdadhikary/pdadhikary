@@ -23,10 +23,7 @@ Supporting AWS cloud migrations and building AI integration pipelines.
 Developed generative models for synthetic datasets of animal contours, focused on shape representation, data augmentation, and model evaluation.
 
 **Data Engineering Co-op** — Sanofi  `2021 – 2022`
-Improved pipeline observability with structured logging, retries, and alerting, cutting debugging time by roughly 50%. Audited and fixed critical ETL aggregation issues to restore dashboard accuracy, and replaced manual Excel workflows with AWS Athena queries and Power BI dashboards.
-
-**C Programming & Mathematics Tutor** — TutorBright  `2022 – 2023`
-Tutored high school students in C and IB Mathematics; one student's grades rose from the mid-70s to the high-80s.
+Build robust vaccine batch genealogy monitoring pipeline. Improved pipeline observability with structured logging, retries, and alerting, cutting debugging time by roughly 50%. Audited and fixed critical PySpark aggregation issues to restore dashboard accuracy, and replaced manual Excel workflows with AWS Athena queries and Power BI dashboards.
 
 <br>
 
@@ -57,9 +54,15 @@ Tutored high school students in C and IB Mathematics; one student's grades rose 
 
 **Data Engineering**
 ![Airflow](https://img.shields.io/badge/Apache%20Airflow-31748F?style=flat-square&logo=apacheairflow&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-9CCFD8?style=flat-square&logo=amazonaws&logoColor=1F1D2E)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-C4A7E7?style=flat-square&logo=googlecloud&logoColor=1F1D2E)
-![Postgres](https://img.shields.io/badge/PostgreSQL-EB6F92?style=flat-square&logo=postgresql&logoColor=white)
+![Spark](https://img.shields.io/badge/Apache%20Spark-9CCFD8?style=flat-square&logo=apachespark&logoColor=1F1D2E)
+![Kafka](https://img.shields.io/badge/Apache%20Kafka-C4A7E7?style=flat-square&logo=apachekafka&logoColor=1F1D2E)
+![AWS](https://img.shields.io/badge/AWS-EB6F92?style=flat-square&logo=amazonaws&logoColor=white)
+![Redshift](https://img.shields.io/badge/Redshift-F6C177?style=flat-square&logo=amazonredshift&logoColor=1F1D2E)
+![S3](https://img.shields.io/badge/S3-31748F?style=flat-square&logo=amazons3&logoColor=white)
+![Glue](https://img.shields.io/badge/AWS%20Glue-9CCFD8?style=flat-square&logoColor=1F1D2E)
+![Step Functions](https://img.shields.io/badge/Step%20Functions-C4A7E7?style=flat-square&logoColor=1F1D2E)
+![Lambda](https://img.shields.io/badge/AWS%20Lambda-EB6F92?style=flat-square&logo=awslambda&logoColor=white)
+![Postgres](https://img.shields.io/badge/PostgreSQL-F6C177?style=flat-square&logo=postgresql&logoColor=1F1D2E)
 
 **Frontend & BI**
 ![React](https://img.shields.io/badge/React-31748F?style=flat-square&logo=react&logoColor=white)
