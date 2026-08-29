@@ -2,9 +2,9 @@
 
 # Deepta Adhikary
 
-### Data Engineer · Backend Developer
+### Data Engineer
 
-I build scalable data systems, backend services, and tools that turn messy data into reliable, production-grade pipelines.
+I build scalable and intelligent data systems, that turn messy data into reliable and actionable insights.
 
 [![Gmail](https://img.shields.io/badge/Email-31748F?style=flat-square&logo=gmail&logoColor=white)](mailto:deeptoadhikary@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-9CCFD8?style=flat-square&logo=linkedin&logoColor=1F1D2E)](https://www.linkedin.com/in/pdeepta-adhikary/)
