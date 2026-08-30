@@ -20,10 +20,10 @@ I build scalable and intelligent data systems, that turn messy data into reliabl
 Supporting AWS cloud migrations and building AI integration pipelines.
 
 **Undergraduate Researcher** — Elder Laboratory, York University  `2023 – 2025`
-Developed generative models for synthetic datasets of animal contours, focused on shape representation, data augmentation, and model evaluation.
+Developed generative models to create synthetic datasets of animate and inanimate shapes for use in studying human psychophysics, non-human primate physiology and other computer vision applications.
 
 **Data Engineering Co-op** — Sanofi  `2021 – 2022`
-Built robust vaccine batch genealogy monitoring pipeline. Improved pipeline observability with structured logging, retries, and alerting, cutting debugging time by roughly 50%. Audited and fixed critical PySpark aggregation issues to restore dashboard accuracy, and replaced manual Excel workflows with AWS Athena queries and Power BI dashboards.
+Built robust vaccine batch genealogy monitoring pipeline. Improved pipeline observability with structured logging, retries, and alerting. Audited and fixed critical SQL aggregation logic errors to restore dashboard accuracy, and replaced manual Excel workflows with pipelines & dashboard powered by AWS Athena, PySpark, Pandas and Power BI.
 
 <br>
 
