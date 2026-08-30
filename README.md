@@ -32,7 +32,7 @@ Built robust vaccine batch genealogy monitoring pipeline. Improved pipeline obse
 | Project | Description |
 |---|---|
 | [**Pople**](https://github.com/pdadhikary/pople) | Distributed job scheduler and monitoring system for the ORCA quantum chemistry tool *(in progress)* |
-| [**Bangladesh Inflation Monitor**](https://github.com/pdadhikary/bd-inflation-monitor) | A data pipeline tracking Bangladesh's economic indicators at a glance |
+| [**Bangladesh Inflation Monitor**](https://github.com/pdadhikary/bd-inflation-monitor) | A data pipeline and dashbaord tracking Bangladesh's economic indicators |
 | [**Rubiksolver**](https://github.com/pdadhikary/rubiksolver) | Computer vision system that solves a Rubik's cube in real time |
 | [**Shape Generation via MCMC**](https://github.com/ElderLab-York-University/ShapeGenerationMCMC) | Research project on Markov Chain Monte Carlo methods for generating naturalistic shapes |
 
