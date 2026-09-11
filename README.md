@@ -41,18 +41,21 @@ Built robust vaccine batch genealogy monitoring pipeline. Improved pipeline obse
 ## Tech Stack
 
 **Languages**
+
 ![Python](https://img.shields.io/badge/Python-31748F?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-9CCFD8?style=flat-square&logo=openjdk&logoColor=1F1D2E)
 ![C](https://img.shields.io/badge/C-C4A7E7?style=flat-square&logo=c&logoColor=1F1D2E)
 ![C++](https://img.shields.io/badge/C++-EB6F92?style=flat-square&logo=cplusplus&logoColor=white)
 
 **Backend & APIs**
+
 ![FastAPI](https://img.shields.io/badge/FastAPI-31748F?style=flat-square&logo=fastapi&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-9CCFD8?style=flat-square&logo=django&logoColor=1F1D2E)
 ![Flask](https://img.shields.io/badge/Flask-C4A7E7?style=flat-square&logo=flask&logoColor=1F1D2E)
 ![Express.js](https://img.shields.io/badge/Express.js-EB6F92?style=flat-square&logo=express&logoColor=white)
 
 **Data Engineering**
+
 ![Airflow](https://img.shields.io/badge/Apache%20Airflow-31748F?style=flat-square&logo=apacheairflow&logoColor=white)
 ![Spark](https://img.shields.io/badge/Apache%20Spark-9CCFD8?style=flat-square&logo=apachespark&logoColor=1F1D2E)
 ![Kafka](https://img.shields.io/badge/Apache%20Kafka-C4A7E7?style=flat-square&logo=apachekafka&logoColor=1F1D2E)
@@ -65,6 +68,7 @@ Built robust vaccine batch genealogy monitoring pipeline. Improved pipeline obse
 ![Postgres](https://img.shields.io/badge/PostgreSQL-F6C177?style=flat-square&logo=postgresql&logoColor=1F1D2E)
 
 **Frontend & BI**
+
 ![React](https://img.shields.io/badge/React-31748F?style=flat-square&logo=react&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-9CCFD8?style=flat-square&logo=powerbi&logoColor=1F1D2E)
 
