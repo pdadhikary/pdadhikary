@@ -1,11 +1,12 @@
 <div align="center">
 
-# Deepta Adhikary
+# Prachurya Deepta Adhikary
 
 ### Data Engineer
 
 I build scalable and intelligent data systems, that turn messy data into reliable and actionable insights.
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-EB6F92?style=flat-square&logo=googlechrome&logoColor=white)](https://pdadhikary.github.io/portfolio/)
 [![Gmail](https://img.shields.io/badge/Email-31748F?style=flat-square&logo=gmail&logoColor=white)](mailto:deeptoadhikary@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-9CCFD8?style=flat-square&logo=linkedin&logoColor=1F1D2E)](https://www.linkedin.com/in/pdeepta-adhikary/)
 [![GitHub](https://img.shields.io/badge/GitHub-C4A7E7?style=flat-square&logo=github&logoColor=1F1D2E)](https://github.com/pdadhikary)
